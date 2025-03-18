@@ -1,7 +1,9 @@
 # Sales Insights
 
-### Here I have uploaded my Power BI sales insights project. If you want to practice it just download or clone it. Thank you :)
+### Here I have uploaded my Power BI sales insights project. If you want to practice it just download or clone it. 
 <br/>
+
+Sales Insights is a data analysis project focused on extracting meaningful business insights from raw sales data. I worked with multiple datasets, including customer, product, transaction, and market data. Using Python (Pandas, NumPy) for data cleaning and preprocessing, I ensured data accuracy and consistency. Then, I created interactive dashboards in Power BI to visualize key performance indicators like monthly sales trends, regional sales distribution, and top-performing products. The project helps stakeholders make data-driven decisions by presenting clear and actionable insights.
 
 
 
